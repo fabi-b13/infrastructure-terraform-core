@@ -4,14 +4,6 @@
 
 Dieses Repository wurde im Rahmen einer Seminararbeit zum Thema *"IT-Infrastruktur"* erstellt und dient ausschließlich als Sammlung von Code-Beispielen zur Veranschaulichung von Infrastructure-as-Code (IaC) mit **Terraform**. Die bereitgestellten Skripte und Konfigurationen zeigen grundlegende Anwendungsfälle und Konzepte, die im Kontext der Automatisierung und Verwaltung von IT-Infrastrukturen relevant sind.
 
-## **Inhalt**
-
-Das Repository enthält folgende Hauptbestandteile:
-
-- **Terraform-Konfigurationsdateien**: Beispiele für die Bereitstellung von Cloud-Ressourcen (z. B. virtuelle Maschinen, Netzwerke, Speicher).
-- **Module**: Wiederverwendbare Terraform-Module, die bestimmte Infrastrukturkomponenten abstrahieren.
-- **Dokumentation**: Erläuterungen zu den einzelnen Beispielen sowie Hinweise zur Nutzung.
-- **Beispielanwendungen**: Szenarien für den Einsatz von Terraform in verschiedenen Cloud-Umgebungen (z. B. AWS, Azure, GCP).
 
 ## **Disclaimer**
 
